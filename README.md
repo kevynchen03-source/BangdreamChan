@@ -12,6 +12,14 @@
 - 🖼️ **一键导出**: 生成美观的统计图表PNG图片
 - 📱 **响应式设计**: 完美适配桌面和移动设备
 
+## 📸 图片来源
+
+- **乐队角色**：来自 [BanG Dream 官方网站](https://bang-dream.com/artist/)，包含全部十个乐队的角色立绘
+- **特殊角色**：来自相关动画截图
+- **麻里奈**：来自 [BanG Dream Wiki](https://bandori.fandom.com/wiki/Tsukishima_Marina)
+
+> 如有版权问题，请联系我们删除
+
 ## 🚀 快速开始
 
 ### 前提条件

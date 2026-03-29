@@ -198,8 +198,8 @@ export default function App() {
                             <div key={id} className="flex flex-col items-center gap-1.5 group">
                               <div className="relative">
                                 <Avatar char={char} size="md" className="hover:scale-105 transition-transform duration-200" />
-                                <div className="absolute -bottom-0.5 -right-0.5 w-4 h-4 rounded-full border-2 border-white shadow-sm flex items-center justify-center overflow-hidden" style={{ backgroundColor: char.color }}>
-                                  <Star size={8} fill="white" />
+                                <div className="absolute -bottom-0.5 -right-0.5 w-4 h-4 rounded-full shadow-sm flex items-center justify-center overflow-hidden bg-white" style={{ color: char.color }}>
+                                  <Star size={10} fill="currentColor" />
                                 </div>
                               </div>
                               <span className="text-[10px] font-bold text-slate-700 group-hover:text-pink-600 transition-colors">{char.name}</span>
