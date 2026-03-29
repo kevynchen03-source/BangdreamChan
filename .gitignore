@@ -6,3 +6,4 @@ coverage/
 *.log
 .env*
 pnpm-lock.yaml
+.workbuddy
