@@ -128,4 +128,5 @@ export const EPISODES: Episode[] = [
   { id: 23, title: "第23期", characters: ['rinko', 'rui', 'tomori', 'anon', 'mutsumi'], highlights: ["社交恐怖分子爱音"] },
   { id: 24, title: "第24期", characters: ['kasumi', 'saaya', 'arisa', 'uika', 'umiri','taki'], highlights: ["划小船三剑客", "西邦与东邦","灯压抑、祥压抑、信压抑"] },
   { id: 25, title: "第25期", characters: ['sayo', 'ako', 'tomoe','tsugumi'], highlights: ["纱夜和亚子突破一次","kdhr上身纱夜","除了悲报外，只有soyo出场一次，且一句话都没说过"] },
+  { id: 26, title: "第26期", characters: ['soyo', 'aya', 'kanon', 'mutsumi', 'mortis'], highlights: ["soyo终于回来了", "花音依旧迷路"] },
 ];
