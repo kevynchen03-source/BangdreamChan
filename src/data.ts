@@ -131,5 +131,7 @@ export const EPISODES: Episode[] = [
   { id: 26, title: "第26期", characters: ['soyo', 'aya', 'kanon', 'mutsumi', 'mortis'], highlights: ["soyo终于回来了", "花音依旧迷路"] },
   { id: 27, title: "第27期", characters: ['yukina', 'rana'], highlights: ["最省经费的一集，猫猫可爱捏", "有种看迷子集会的感觉"] },
   { id: 28, title: "第28期", characters: ['tomoe', 'hagumi','hina'], highlights: ["可乐饼宇宙是何意味"] },
-  { id: 28, title: "第29期", characters: ['ars','kaoru','sayo','moca','chisato','tsukushi','chu2','soyo','umiri'],highlights:["人数最多的一集"]}
+  { id: 29, title: "第29期", characters: ['ars','kaoru','sayo','moca','chisato','tsukushi','chu2','soyo','umiri'],highlights:["人数最多的一集"]},
+  { id: 30, title: "第30期", characters: ['layer', 'lock', 'masking', 'pareo', 'chu2'], highlights: ['chuchu冻人']},
+  { id: 31, title: "第31期", characters: ['ran', 'moca', 'himari', 'tomoe', 'tsugumi'], highlights: ["何意味","时间加速这一块"]}
 ];
