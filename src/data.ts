@@ -136,4 +136,5 @@ export const EPISODES: Episode[] = [
   { id: 31, title: "第31期", characters: ['ran', 'moca', 'himari', 'tomoe', 'tsugumi'], highlights: ["何意味","时间加速这一块"]},
   { id: 32, title: "第32期", characters: ['tomoe', 'kokoro', 'misaki', 'ako', 'kanon', 'hagumi', 'kaoru'], highlights: ["花音的身体素质？？?","hhw全是超人"]},
   { id: 33, title: "第33期", characters: ['kasumi', 'masking', 'lisa', 'yukina' ], highlights: ["ykn的时间循环","这就是你不上课的理由吗"]},
+  { id: 34, title: "第34期", characters: ['rinko', 'ako', 'rimi' ], highlights: ["每日三抽广告","rinko：我才是猎人","邦多利这招太狠了 知道做一段动画就有一堆高技术力粉丝来把整个游戏做完"]},
 ];
