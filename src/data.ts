@@ -138,4 +138,5 @@ export const EPISODES: Episode[] = [
   { id: 33, title: "第33期", characters: ['kasumi', 'masking', 'lisa', 'yukina' ], highlights: ["ykn的时间循环","这就是你不上课的理由吗"]},
   { id: 34, title: "第34期", characters: ['rinko', 'ako', 'rimi' ], highlights: ["每日三抽广告","rinko：我才是猎人","邦多利这招太狠了 知道做一段动画就有一堆高技术力粉丝来把整个游戏做完"]},
   { id: 35, title: "第35期", characters: ['mashiro', 'touko', 'nanami', 'tsukushi', 'rui'], highlights: ["1蓝眼晴，2瑠唯不会喜欢吃汉堡排，3独角透和甲虫白，4反重力双马尾筑紫，5幼年瑠唯（rinrin狂喜），6发卡没了","武士道最精了，发现请的外包画错了直接加两行字幕就好了"] },
+  { id: 36, title: "第36期", characters: ['kasumi', 'hina', 'kokoro', 'tomori', 'uika', 'sakiko','sakiko','layer', 'tae','chu2'], highlights: ["喜欢北泽精肉店的五块钱可乐饼吗", "1.Uika的天线 2.太刀 3.5円"] },
 ];
