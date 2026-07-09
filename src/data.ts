@@ -98,7 +98,7 @@ export const CHARACTERS: Character[] = [
   // Special（不计入总排行）
   { id: 'marina', name: '月岛麻里奈', band: 'special', avatar: '/avatars/marina.png', color: '#666666' },
   { id: 'mortis', name: 'Mortis', band: 'special', avatar: '/avatars/mortis.png', color: '#666666' },
-  { id: 'sumimi', name: '纯田真奈', band: 'special', avatar: '/avatars/mortis.png', color: '#666666' },
+  { id: 'sumidamana', name: '纯田真奈', band: 'special', avatar: '/avatars/mana.png', color: '#666666' },
 ];
 
 export const EPISODES: Episode[] = [
@@ -140,6 +140,6 @@ export const EPISODES: Episode[] = [
   { id: 36, title: "第36期", characters: ['kasumi', 'hina', 'kokoro', 'tomori', 'uika', 'sakiko','sakiko','layer', 'tae','chu2'], highlights: ["喜欢北泽精肉店的五块钱可乐饼吗", "1.Uika的天线 2.太刀 3.5円"] },
   { id: 37, title: "第37期", characters: ['anon', 'taki', 'soyo'], highlights: ["爱素回", "苦主taki","想象中的soyorin", "评论区刷怪了 " ] },
   { id: 38, title: "第38期", characters: ['maya', 'saaya', 'himari', 'lisa', 'eve'], highlights: ["aao一呼零应","生化危机"]},
-  { id: 39, title: "第39期", characters: ['uika','sumimi'], highlights: ["anon强推", "甜甜圈女士复活了"] },
+  { id: 39, title: "第39期", characters: ['uika','sumidamana'], highlights: ["anon强推", "甜甜圈女士复活了"] },
   { id: 40, title: "第40期", characters: ['mutsumi', 'nyamu', 'aya', 'hina' ], highlights: ["三流艺人","爱彩tv"]},
 ];
