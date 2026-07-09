@@ -140,4 +140,7 @@ export const EPISODES: Episode[] = [
   { id: 35, title: "第35期", characters: ['mashiro', 'touko', 'nanami', 'tsukushi', 'rui'], highlights: ["1蓝眼晴，2瑠唯不会喜欢吃汉堡排，3独角透和甲虫白，4反重力双马尾筑紫，5幼年瑠唯（rinrin狂喜），6发卡没了","武士道最精了，发现请的外包画错了直接加两行字幕就好了"] },
   { id: 36, title: "第36期", characters: ['kasumi', 'hina', 'kokoro', 'tomori', 'uika', 'sakiko','sakiko','layer', 'tae','chu2'], highlights: ["喜欢北泽精肉店的五块钱可乐饼吗", "1.Uika的天线 2.太刀 3.5円"] },
   { id: 37, title: "第37期", characters: ['anon', 'taki', 'soyo'], highlights: ["爱素回", "苦主taki","想象中的soyorin", "评论区刷怪了 " ] },
+  { id: 38, title: "第38期", characters: ['maya', 'saaya', 'himari', 'lisa', 'eve'], highlights: ["aao一呼零应","生化危机"]},
+  { id: 39, title: "第39期", characters: ['uika'], highlights: ["anon强推", "甜甜圈女士复活了"] },
+  { id: 40, title: "第40期", characters: ['mutsumi', 'nyamu', 'aya', 'hina' ], highlights: ["三流艺人","爱彩tv"]},
 ];
